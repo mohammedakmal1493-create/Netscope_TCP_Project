@@ -1,4 +1,4 @@
-# # NetScope: Multi-Client TCP Communication System
+# NetScope: Multi-Client TCP Communication System
 
 NetScope is a Python-based networking project that demonstrates private communication between multiple clients and a central server using TCP sockets and multithreading.
 
